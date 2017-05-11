@@ -1,5 +1,5 @@
 # Python Django Web Development Essential Training
-## by [Tertiary Infotech Pte. Ltd] (https://www.tertiarycourses.com.sg/)
+## by [Tertiary Infotech Pte. Ltd](https://www.tertiarycourses.com.sg/)
 
 These are the exercise files used for [Python Django Web Development Essential Training](https://www.tertiarycourses.com.sg/python-django-web-development-training.html) course. 
 
