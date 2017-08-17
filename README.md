@@ -6,6 +6,7 @@ These are the exercise files used for [Python Django Web Development Essential T
 The course outline can be found in 
 
 https://www.tertiarycourses.com.sg/python-django-web-development-training.html
+https://www.tertiarycourses.com.my/django-web-application-training-for-beginners-in-malaysia.html
 
 <p><strong>Module 1 Get Started</strong></p>
 <ul>
