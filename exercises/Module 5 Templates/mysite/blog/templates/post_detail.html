@@ -1,7 +1,8 @@
 {% extends 'base.html' %}
 
 {% block content %}
-	<h3>{{post.title}}</h3>
-	<h6>on {{post.date}}</h6>
-	{{post.body | linebreaks}}
+<h1>{{post.title | capfirst}}  </h1>
+<h6>on {{post.date | date:"Y-m-d"}} </h6>
+
+<p>{{ post.body }}</p>
 {% endblock %}

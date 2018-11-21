@@ -1,7 +1,11 @@
 {% extends 'base.html' %}
 
 {% block content %}
-	{% for post in object_list %}
-		<h5>{{post.date|date:"Y-m-d"}} <a href="/blog/{{post.id}}"> {{post.title}}</a></h5>
-	{% endfor %}
+<h1>Below is our my blogs</h1>
+
+<ul>
+{% for item in posts %}
+   <li>{{item.date | date:"Y-m-d"}} <a href="/post/{{item.id}}"> {{item.title}}</a></li>
+{% endfor %}
+</ul>
 {% endblock %}
